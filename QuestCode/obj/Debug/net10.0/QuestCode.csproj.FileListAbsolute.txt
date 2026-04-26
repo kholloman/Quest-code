@@ -1,0 +1,14 @@
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/bin/Debug/net10.0/QuestCode
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/bin/Debug/net10.0/QuestCode.deps.json
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/bin/Debug/net10.0/QuestCode.runtimeconfig.json
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/bin/Debug/net10.0/QuestCode.dll
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/bin/Debug/net10.0/QuestCode.pdb
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/obj/Debug/net10.0/QuestCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/obj/Debug/net10.0/QuestCode.AssemblyInfoInputs.cache
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/obj/Debug/net10.0/QuestCode.AssemblyInfo.cs
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/obj/Debug/net10.0/QuestCode.csproj.CoreCompileInputs.cache
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/obj/Debug/net10.0/QuestCode.dll
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/obj/Debug/net10.0/refint/QuestCode.dll
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/obj/Debug/net10.0/QuestCode.pdb
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/obj/Debug/net10.0/QuestCode.genruntimeconfig.cache
+/Users/tjdagoat/Downloads/TeamQuestCodeProject/QuestCode/obj/Debug/net10.0/ref/QuestCode.dll
