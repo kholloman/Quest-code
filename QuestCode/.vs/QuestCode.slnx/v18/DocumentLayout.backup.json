@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\CommandParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommandParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Core\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Entities\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Entities\\NPC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\NPC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Entities\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\World\\WorldBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:World\\WorldBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\SaveSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SaveSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\QuestCode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuestCode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inventory.cs",
+              "DocumentMoniker": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Entities\\inventory.cs",
+              "RelativeDocumentMoniker": "Entities\\inventory.cs",
+              "ToolTip": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Entities\\inventory.cs",
+              "RelativeToolTip": "Entities\\inventory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:42:45.869Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Core\\GameState.cs",
+              "RelativeDocumentMoniker": "Core\\GameState.cs",
+              "ToolTip": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Core\\GameState.cs",
+              "RelativeToolTip": "Core\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:39:43.222Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Entities\\NPC.cs",
+              "RelativeDocumentMoniker": "Entities\\NPC.cs",
+              "ToolTip": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Entities\\NPC.cs",
+              "RelativeToolTip": "Entities\\NPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:43:03.65Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommandParser.cs",
+              "DocumentMoniker": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\CommandParser.cs",
+              "RelativeDocumentMoniker": "CommandParser.cs",
+              "ToolTip": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\CommandParser.cs",
+              "RelativeToolTip": "CommandParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:48:36.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "Entities\\Room.cs",
+              "ToolTip": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Entities\\Room.cs",
+              "RelativeToolTip": "Entities\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:31:54.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorldBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\World\\WorldBuilder.cs",
+              "RelativeDocumentMoniker": "World\\WorldBuilder.cs",
+              "ToolTip": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\World\\WorldBuilder.cs",
+              "RelativeToolTip": "World\\WorldBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:10:17.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:34:22.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaveSystem.cs",
+              "DocumentMoniker": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\SaveSystem.cs",
+              "RelativeDocumentMoniker": "SaveSystem.cs",
+              "ToolTip": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\SaveSystem.cs",
+              "RelativeToolTip": "SaveSystem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:43:42.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuestCode.csproj",
+              "DocumentMoniker": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\QuestCode.csproj",
+              "RelativeDocumentMoniker": "QuestCode.csproj",
+              "ToolTip": "C:\\Users\\kboss\\source\\repos\\kholloman\\Quest-code\\QuestCode\\QuestCode.csproj",
+              "RelativeToolTip": "QuestCode.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-26T12:07:25.71Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "CurrentRoom": {
+    "Name": "Wine Cellar",
+    "Description": "It is dark, damp, and smells of fermented grapes.",
+    "ItemsInRoom": [],
+    "RoomNPC": null
+  },
+  "PlayerInventory": {
+    "Items": [
+      {
+        "Name": "Torch",
+        "Description": "Lights up dark rooms.",
+        "IsUsable": true,
+        "IsQuestItem": false,
+        "IsCombinable": false,
+        "CombinesWith": ""
+      },
+      {
+        "Name": "Ancient Scroll",
+        "Description": "Contains a mysterious spell.",
+        "IsUsable": false,
+        "IsQuestItem": true,
+        "IsCombinable": false,
+        "CombinesWith": ""
+      },
+      {
+        "Name": "Map Fragment",
+        "Description": "Part of a larger map.",
+        "IsUsable": false,
+        "IsQuestItem": true,
+        "IsCombinable": false,
+        "CombinesWith": ""
+      },
+      {
+        "Name": "Crystal Orb",
+        "Description": "Empty, needs a shard.",
+        "IsUsable": false,
+        "IsQuestItem": false,
+        "IsCombinable": true,
+        "CombinesWith": "Crystal Shard"
+      },
+      {
+        "Name": "Rope",
+        "Description": "Strong enough to climb with.",
+        "IsUsable": true,
+        "IsQuestItem": false,
+        "IsCombinable": true,
+        "CombinesWith": "Grappling Hook"
+      },
+      {
+        "Name": "Grappling Hook",
+        "Description": "A metal hook.",
+        "IsUsable": false,
+        "IsQuestItem": false,
+        "IsCombinable": true,
+        "CombinesWith": "Rope"
+      },
+      {
+        "Name": "Lock Pick",
+        "Description": "Opens locked doors.",
+        "IsUsable": true,
+        "IsQuestItem": false,
+        "IsCombinable": false,
+        "CombinesWith": ""
+      },
+      {
+        "Name": "Rusty Key",
+        "Description": "An old key, maybe opens something.",
+        "IsUsable": true,
+        "IsQuestItem": false,
+        "IsCombinable": false,
+        "CombinesWith": ""
+      },
+      {
+        "Name": "Potion",
+        "Description": "Restores health when used.",
+        "IsUsable": true,
+        "IsQuestItem": false,
+        "IsCombinable": false,
+        "CombinesWith": ""
+      },
+      {
+        "Name": "Golden Coin",
+        "Description": "Currency for the merchant NPC.",
+        "IsUsable": true,
+        "IsQuestItem": false,
+        "IsCombinable": false,
+        "CombinesWith": ""
+      },
+      {
+        "Name": "Crystal Shard",
+        "Description": "Glows faintly blue.",
+        "IsUsable": false,
+        "IsQuestItem": true,
+        "IsCombinable": true,
+        "CombinesWith": "Crystal Orb"
+      }
+    ]
+  },
+  "IsRunning": true,
+  "AllRooms": [
+    {
+      "Name": "Grand Foyer",
+      "Description": "A large entrance hall with a dusty chandelier.",
+      "ItemsInRoom": [],
+      "RoomNPC": null
+    },
+    {
+      "Name": "Kitchen",
+      "Description": "The smell of old soup lingers. Dirty pots hang from the ceiling.",
+      "ItemsInRoom": [],
+      "RoomNPC": null
+    },
+    {
+      "Name": "Ancient Library",
+      "Description": "Floor-to-ceiling bookshelves surround you.",
+      "ItemsInRoom": [],
+      "RoomNPC": {
+        "Name": "The Librarian",
+        "Dialogue": "I have protected these books for centuries... take this scroll.",
+        "ItemToGive": null
+      }
+    },
+    {
+      "Name": "The Armory",
+      "Description": "Racks of rusted swords and shields line the walls.",
+      "ItemsInRoom": [],
+      "RoomNPC": null
+    },
+    {
+      "Name": "Wine Cellar",
+      "Description": "It is dark, damp, and smells of fermented grapes.",
+      "ItemsInRoom": [],
+      "RoomNPC": null
+    }
+  ]
+}

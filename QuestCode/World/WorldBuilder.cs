@@ -2,13 +2,21 @@ using System.Collections.Generic;
 
 public static class WorldBuilder
 {
-    public static Room CreateWorld()
+    // Added 'GameState gameState' so we can fill the AllRooms list
+    public static Room CreateWorld(GameState gameState)
     {
         Room foyer = new Room("Grand Foyer", "A large entrance hall with a dusty chandelier.");
         Room kitchen = new Room("Kitchen", "The smell of old soup lingers. Dirty pots hang from the ceiling.");
         Room library = new Room("Ancient Library", "Floor-to-ceiling bookshelves surround you.");
         Room armory = new Room("The Armory", "Racks of rusted swords and shields line the walls.");
         Room cellar = new Room("Wine Cellar", "It is dark, damp, and smells of fermented grapes.");
+
+        // --- NEW: Add all rooms to the GameState list for the Win Check ---
+        gameState.AllRooms.Add(foyer);
+        gameState.AllRooms.Add(kitchen);
+        gameState.AllRooms.Add(library);
+        gameState.AllRooms.Add(armory);
+        gameState.AllRooms.Add(cellar);
 
         foyer.AddExit("north", library);
         library.AddExit("south", foyer);
